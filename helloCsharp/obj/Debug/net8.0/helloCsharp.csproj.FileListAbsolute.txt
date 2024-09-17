@@ -1,0 +1,14 @@
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/bin/Debug/net8.0/helloCsharp
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/bin/Debug/net8.0/helloCsharp.deps.json
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/bin/Debug/net8.0/helloCsharp.runtimeconfig.json
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/bin/Debug/net8.0/helloCsharp.dll
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/bin/Debug/net8.0/helloCsharp.pdb
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/helloCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/helloCsharp.AssemblyInfoInputs.cache
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/helloCsharp.AssemblyInfo.cs
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/helloCsharp.csproj.CoreCompileInputs.cache
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/helloCsharp.dll
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/refint/helloCsharp.dll
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/helloCsharp.pdb
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/helloCsharp.genruntimeconfig.cache
+/Users/drichter/Documents/assignments/Week16/helloC#/helloCsharp/obj/Debug/net8.0/ref/helloCsharp.dll
